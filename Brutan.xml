@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium version="5"><race><name>Brutan</name><ability>Strength +2, Constitution +1</ability><size>L</size><speed>30</speed><trait><name>Bite</name><text>You have a powerful fanged maw that you can use to make unarmed strikes. When you hit with it, the strike deals 1d6 + your Strength modifier piercing damage, instead of the bludgeoning damage normal for an unarmed strike. Immediately after hitting, you can try to grapple the target as a bonus action. Until this grapple ends, you can&#39;t bite another target.</text></trait>
+<trait><name>Focus</name><text>You have advantage on saving throws to avoid or end the frightened condition on yourself.</text></trait>
+<trait><name>Natural Armor</name><text>Your body is covered in thick scales and bony plates. While you aren’t wearing armor, your base Armor Class is 13 + your Constitution modifier.</text></trait>
+<trait><name>Primal Vigor</name><text>When under pressure, your predatory instincts grant you guidance in combat. When you hit a target with a melee attack, you can cause the target to take extra damage equal to your proficiency bonus. While you are missing half or more of your hit points, you also gain temporary hit points equal to your proficiency bonus.  
+You can use this trait a number of times equal to your proficiency bonus, but you can use it no more than once per turn. You regain all expended uses when you finish a long rest.</text></trait>
+</race>
+</compendium>
